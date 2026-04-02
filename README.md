@@ -1,3 +1,4 @@
+![Project Preview](Dashboard.jpg)
 # Indoor Air Quality Monitor
 
 A Raspberry Pi-based multi-node air quality monitoring system with real-time
