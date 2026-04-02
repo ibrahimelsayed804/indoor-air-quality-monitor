@@ -1,0 +1,7 @@
+adafruit-circuitpython-tca9548a
+adafruit-circuitpython-scd4x
+smbus2
+mysql-connector-python
+sparkfun-qwiic-i2c
+sparkfun-qwiic-fs3000
+RPi.GPIO
